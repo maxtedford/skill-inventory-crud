@@ -1,0 +1,9 @@
+---
+skills:
+- id: 1
+  title: Nunchuck Skill
+  description: BAM!
+- id: 2
+  title: Bowhunting Skill
+  description: TWANG!
+total: 2
