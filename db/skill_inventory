@@ -6,4 +6,17 @@ skills:
 - id: 2
   title: Bowhunting Skill
   description: TWANG!
-total: 2
+- id: 1
+  title: test title
+  description: test description
+- id: 1
+  title: test title
+  description: test description
+- id: 1
+  title: test title
+  description: test description
+- id: 1
+  title: test title
+  description: test description
+total: 0
+tasks: []

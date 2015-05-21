@@ -47,4 +47,11 @@ class SkillInventory
       database["skills"].delete_if {|element| element["id"] == id}
     end
   end
+  
+  def self.delete_all
+    database.transaction do
+      database["tasks"] = []
+      database["total"] = 0
+    end
+  end
 end
